@@ -1,0 +1,21 @@
+{
+  "network": "Hedera Testnet",
+  "chainId": 296,
+  "deployedAt": "2024-10-29",
+  "contracts": {
+    "MockERC20": {
+      "address": "0x04F9CE8FDba78e489D2dF705c3498736EfBa6D28",
+      "txHash": "0xfbf73c9c3ae533405e5220b0847aa52075ddf7e54264042ba505f955e5e79b57",
+      "block": 26823302
+    },
+    "BaseSafeFactory": {
+      "address": "0xa7706B9b91c0852f134ec2392456E866575D76E2",
+      "txHash": "0xc4673d78b5cc529cd6fba08735ec6098bdf99c17d9505ddf5468f6cc6101b2c8",
+      "block": 26823427
+    }
+  },
+  "config": {
+    "token": "0x04F9CE8FDba78e489D2dF705c3498736EfBa6D28",
+    "treasury": "0x96A10234C65Eb6D22f5d8AAff5F9327C2fB50a76"
+  }
+}
