@@ -132,6 +132,8 @@ By combining familiar community savings with blockchain’s automation and trans
 
 - **Live App:** [app.ajo.xyz](l)
 - **GitHub:** [github.com/ajo-onchain]()  
+- **Certification:** [https://certs.hashgraphdev.com/51ff5dd0-9dae-4ec0-bd35-c380a236e076.pdf] ()
+- **Pitch Deck:** [https://youtu.be/VH8i3F5IaAk?si=tGAsm7Rl97VqcZv2]()
 
 ---
 
